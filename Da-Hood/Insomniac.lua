@@ -2,7 +2,7 @@
 
 PASTESLAYER
     $$$
-    
+     $
 ]]--
 
 -- init 
