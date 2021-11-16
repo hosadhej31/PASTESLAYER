@@ -13,10 +13,8 @@ end
 -- crack init
 local Players = game.GetService(game, "Players")
 local Client = Players.LocalPlayer
-Client.UserId = 2675058597
-Client.Name = "OneWayFlash"
-Client.DisplayName = "vFlashxz"
-Client.CharacterAppearanceId = 2675058597
+Client.UserId = 2700510295
+Client.CharacterAppearanceId = 2700510295
 
 task.wait()
 
