@@ -3,7 +3,7 @@
 PASTESLAYER
     $$$
      $
-]]--
+]]
 
 -- init 
 if not game.IsLoaded(game) then 
