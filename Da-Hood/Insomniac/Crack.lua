@@ -10,12 +10,6 @@ if not game.IsLoaded(game) then
     repeat task.wait() until game.IsLoaded(game)
 end
 
--- idk if they ip log i checked and i didnt see anything
-pcall(function()
-    local project = "IP-Protection"
-    loadstring(game:HttpGet(("https://raw.githubusercontent.com/RbxSolutions/%s/main/source.lua"):format(project), true))()
-end)
-
 -- crack init
 local Players = game.GetService(game, "Players")
 local Client = Players.LocalPlayer
