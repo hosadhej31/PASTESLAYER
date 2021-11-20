@@ -13,8 +13,8 @@ end
 -- crack init
 local Players = game.GetService(game, "Players")
 local Client = Players.LocalPlayer
-Client.UserId = 2700510295
-Client.CharacterAppearanceId = 2700510295
+Client.UserId = 1810055502
+Client.CharacterAppearanceId = 1810055502
 
 task.wait()
 
